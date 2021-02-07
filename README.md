@@ -18,3 +18,8 @@
 <img src="https://user-images.githubusercontent.com/17435062/107159977-6aa9d480-69a4-11eb-8f2c-3c9c75c451c4.png" alt="target 68 bell" width="600"/>
 
 - 👉  [Repo](https://github.com/SafaElmali/css-battles/tree/master/target-68-bell)
+
+
+## License
+
+my-css-battles-solutions is [MIT licensed](./LICENSE).
