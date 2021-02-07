@@ -9,6 +9,10 @@
 
 ## Table of Contents
 
+- [My CSS Battles Solutions ✍️](#my-css-battles-solutions-️)
+  - [Table of Contents](#table-of-contents)
+    - [Target #68 (Bell)](#target-68-bell)
+
 ### Target #68 (Bell)
 
 <img src="https://user-images.githubusercontent.com/17435062/107159977-6aa9d480-69a4-11eb-8f2c-3c9c75c451c4.png" alt="target 68 bell" width="600"/>
