@@ -12,35 +12,33 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        min-height: 100vh;
         overflow: hidden;
+        min-height: 100vh;
       }
-      .ring-body {
+      [a] {
         width: 120px;
         height: 120px;
         background: #e08027;
         border-radius: 50% 50% 10px 10px;
         position: relative;
       }
-      .ring:first-of-type {
+      [a] > div {
+        content: "";
         width: 50px;
         height: 50px;
-        background-color: #f2ad43;
-        border-radius: 50%;
         position: absolute;
-        top: -20%;
-        left: 29%;
         z-index: -1;
+        border-radius: 50%;
       }
-      .ring:last-of-type {
-        width: 50px;
-        height: 50px;
-        background-color: #824b20;
-        border-radius: 50%;
-        position: absolute;
-        bottom: -21%;
+      [b] {
         left: 29%;
-        z-index: -1;
+        top: -20%;
+        background: #f2ad43;
+      }
+      [c] {
+        left: 29%;
+        bottom: -21%;
+        background: #824b20;
       }
 
       /* This is not part of the challenge. 
@@ -71,9 +69,9 @@
     </style>
   </head>
   <body>
-    <div class="ring-body">
-      <div class="ring"></div>
-      <div class="ring"></div>
+    <div a>
+      <div b></div>
+      <div c></div>
     </div>
     <footer>
       <a href="https://cssbattle.dev/play/68" target="_blank"
