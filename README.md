@@ -15,7 +15,7 @@
 
 ### Target #68 (Bell)
 
-<img src="https://user-images.githubusercontent.com/17435062/107159977-6aa9d480-69a4-11eb-8f2c-3c9c75c451c4.png" alt="target 68 bell" width="600"/>
+<img src="https://user-images.githubusercontent.com/17435062/107191411-2bf43880-69fd-11eb-8031-4ae44b9e6f12.png" alt="target 68 bell" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles/tree/master/target-68-bell)
 - 👉  [kk77777's Solution](https://github.com/kk77777/css-battle/blob/main/Bell.html)
