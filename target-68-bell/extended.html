@@ -15,14 +15,15 @@
         overflow: hidden;
         min-height: 100vh;
       }
-      [a] {
+      a {
         width: 120px;
         height: 120px;
         background: #e08027;
         border-radius: 50% 50% 10px 10px;
         position: relative;
+        top:-15px;
       }
-      [a] > div {
+      a > * {
         content: "";
         width: 50px;
         height: 50px;
@@ -30,12 +31,12 @@
         z-index: -1;
         border-radius: 50%;
       }
-      [b] {
+      b {
         left: 29%;
         top: -20%;
         background: #f2ad43;
       }
-      [c] {
+      c {
         left: 29%;
         bottom: -21%;
         background: #824b20;
@@ -51,7 +52,7 @@
         color: #000;
       }
 
-      a {
+      footer > a {
         text-decoration: none;
         border: 1px solid lightgray;
         background-color: lightgray;
@@ -59,20 +60,20 @@
         padding: 10px;
       }
 
-      a:visited {
+      footer > a:visited {
         color: #000;
       }
 
-      a:hover {
+      foooter > a:hover {
         color: #656363;
       }
     </style>
   </head>
   <body>
-    <div a>
-      <div b></div>
-      <div c></div>
-    </div>
+    <a>
+      <b></b>
+      <c></c>
+    </a>
     <footer>
       <a href="https://cssbattle.dev/play/68" target="_blank"
         >Battle #12 - Blend</a
