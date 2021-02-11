@@ -12,34 +12,53 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        overflow: hidden;
         min-height: 100vh;
       }
-      a {
-        width: 120px;
-        height: 120px;
-        background: #e08027;
-        border-radius: 50% 50% 10px 10px;
-        position: relative;
-        top:-15px;
-      }
-      a > * {
-        content: "";
-        width: 50px;
-        height: 50px;
-        position: absolute;
-        z-index: -1;
-        border-radius: 50%;
-      }
       b {
-        left: 29%;
-        top: -20%;
-        background: #f2ad43;
+        width: 160px;
+        height: 160px;
+        background: #824b20;
+        border-radius: 50%;
+        position: relative;
       }
       c {
-        left: 29%;
-        bottom: -21%;
-        background: #824b20;
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background: #e08027;
+        border-radius: 50%;
+        top: 19%;
+        left: 19%;
+      }
+      d {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        top: 10%;
+        left: 12%;
+        border: 20px solid rgba(0, 0, 0, 0);
+        border-bottom-color: #fff58f;
+        border-right-color: #fff58f;
+        transform: rotate(45deg);
+      }
+      e {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        left: 19px;
+        top: 70px;
+        background: #fff58f;
+        position: absolute;
+      }
+      f {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        right: 21px;
+        top: 69px;
+        background: #fff58f;
+        position: absolute;
       }
 
       /* This is not part of the challenge. 
@@ -70,13 +89,15 @@
     </style>
   </head>
   <body>
-    <a>
-      <b></b>
+    <b>
       <c></c>
-    </a>
+      <d></d>
+      <e></e>
+      <f></f>
+    </b>
     <footer>
-      <a href="https://cssbattle.dev/play/68" target="_blank"
-        >Target #68 - Bell</a
+      <a href="https://cssbattle.dev/play/64" target="_blank"
+        >Target #64 - Door Knob</a
       >
     </footer>
   </body>
