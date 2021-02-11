@@ -12,6 +12,8 @@
 - [CSS Battles Solutions ✍️](#css-battles-solutions-️)
   - [Table of Contents](#table-of-contents)
     - [Target #68 (Bell)](#target-68-bell)
+    - [Target #64 (Door Knob)](#target-64-door-knob)
+    
 
 ### Target #68 (Bell)
 
@@ -19,6 +21,14 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles/tree/master/target-68-bell)
 - 👉  [kk77777's Solution](https://github.com/kk77777/css-battle/blob/main/Bell.html)
+
+### Target #64 (Door Knob)
+
+<img src="https://user-images.githubusercontent.com/17435062/107638012-0cb90d80-6c80-11eb-9d24-d78512fd9eda.png" alt="target 64 Door Knob" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-64-door-knob)
+- 👉  [Web Dev Junkie's Soluition](https://www.youtube.com/watch?v=d54krzUyLWI)
+
 
 
 
