@@ -15,6 +15,8 @@
     - [Target #64 (Door Knob)](#target-64-door-knob)
     - [Target #49 (Stay at Home)](#target-49-stay-at-home)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
+    - [Target #1 (Simply Square)](#target-1-simply-square)
+
 
 ### Target #68 (Bell)
 
@@ -42,6 +44,13 @@
 <img src="https://user-images.githubusercontent.com/17435062/107844921-a7346080-6de8-11eb-9942-ce518a6e933b.png" alt="target 13 Totally Triangle" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-13-totally-triangle)
+
+### Target #1 (Simply Square)
+
+<img src="https://user-images.githubusercontent.com/17435062/107849441-3acb5880-6e0c-11eb-992e-86e2683ec6fd.png" alt="target 1 Simply Square" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-1-simply-square)
+
 
 ## License
 
