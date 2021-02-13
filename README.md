@@ -43,6 +43,13 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-13-totally-triangle)
 
+### Target #1 (Simply Square)
+
+<img src="https://user-images.githubusercontent.com/17435062/107849441-3acb5880-6e0c-11eb-992e-86e2683ec6fd.png" alt="target 1 Simply Square" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-1-simply-square)
+
+
 ## License
 
 my-css-battles-solutions is [MIT licensed](./LICENSE).
