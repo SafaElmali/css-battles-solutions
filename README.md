@@ -15,6 +15,8 @@
     - [Target #64 (Door Knob)](#target-64-door-knob)
     - [Target #49 (Stay at Home)](#target-49-stay-at-home)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
+    - [Target #1 (Simply Square)](#target-1-simply-square)
+
 
 ### Target #68 (Bell)
 
