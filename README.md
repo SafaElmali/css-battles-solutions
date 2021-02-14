@@ -56,7 +56,7 @@
 
 ### Target #6 (Missing Slice)
 
-<img src="https://user-images.githubusercontent.com/17435062/107874902-f7392300-6ecd-11eb-9e1f-61848ca0090a.png" alt="target 6 Missing Slice" width="600"/>
+<img src="https://user-images.githubusercontent.com/17435062/107875153-4764b500-6ecf-11eb-8490-35c65ad1e644.png" alt="target 6 Missing Slice" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-6-missing-slice)
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Missing-Slice.md)
