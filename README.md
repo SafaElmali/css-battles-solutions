@@ -16,9 +16,9 @@
     - [Target #49 (Stay at Home)](#target-49-stay-at-home)
     - [Target #30 (Horizon)](#target-30-horizon)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
+    - [Target #6 (Missing Slice)](#target-6-missing-slice)
     - [Target #3 (Push Button)](#target-3-push-button)
     - [Target #1 (Simply Square)](#target-1-simply-square)
-
 
 ### Target #68 (Bell)
 
@@ -48,12 +48,18 @@
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Horizon.md)
  
 
-
 ### Target #13 (Totally Triangle)
 
 <img src="https://user-images.githubusercontent.com/17435062/107844921-a7346080-6de8-11eb-9942-ce518a6e933b.png" alt="target 13 Totally Triangle" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-13-totally-triangle)
+
+### Target #6 (Missing Slice)
+
+<img src="https://user-images.githubusercontent.com/17435062/107875153-4764b500-6ecf-11eb-8490-35c65ad1e644.png" alt="target 6 Missing Slice" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-6-missing-slice)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Missing-Slice.md)
 
 ### Target #3 (Push Button)
 
