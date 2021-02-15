@@ -18,6 +18,7 @@
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #6 (Missing Slice)](#target-6-missing-slice)
     - [Target #3 (Push Button)](#target-3-push-button)
+    - [Target #2 (Carrom)](#target-2-carrom)
     - [Target #1 (Simply Square)](#target-1-simply-square)
 
 ### Target #68 (Bell)
@@ -67,13 +68,18 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-3-push-button)
 
+### Target #2 (Carrom)
+
+<img src="https://user-images.githubusercontent.com/17435062/107914706-1094aa80-6f74-11eb-9bb7-4c8572f8544a.png" alt="target 2 Carrom" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-2-carrom)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Carrom.md)
 
 ### Target #1 (Simply Square)
 
 <img src="https://user-images.githubusercontent.com/17435062/107849441-3acb5880-6e0c-11eb-992e-86e2683ec6fd.png" alt="target 1 Simply Square" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-1-simply-square)
-
 
 ## License
 
