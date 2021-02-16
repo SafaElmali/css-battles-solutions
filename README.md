@@ -15,6 +15,7 @@
     - [Target #64 (Door Knob)](#target-64-door-knob)
     - [Target #49 (Stay at Home)](#target-49-stay-at-home)
     - [Target #47 (Corona Virus)](#target-47-corona-virus)
+    - [Target #36 (Interleaved)](#target-36-interleaved)
     - [Target #30 (Horizon)](#target-30-horizon)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #6 (Missing Slice)](#target-6-missing-slice)
@@ -48,6 +49,14 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-47-corona-virus)
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Corona-Virus.md)
+
+### Target #36 (Interleaved)
+
+<img src="https://user-images.githubusercontent.com/17435062/108100603-31095580-7097-11eb-9b98-87e6c903b325.png" alt="target 36 Interleaved" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-36-Interleaved)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Interleaved.md)
+- 👉  [kk77777's Solution](https://github.com/kk77777/css-battle/blob/main/Interleaved.html)
 
 ### Target #30 (Horizon)
 
