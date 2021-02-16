@@ -47,6 +47,7 @@
 <img src="https://user-images.githubusercontent.com/17435062/108037671-fa0d5280-704a-11eb-87db-08ed47a0d74f.png" alt="target 47 Corona Virus" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-47-corona-virus)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Corona-Virus.md)
 
 ### Target #30 (Horizon)
 
