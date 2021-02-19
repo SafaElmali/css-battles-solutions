@@ -49,6 +49,8 @@
 <img src="https://user-images.githubusercontent.com/17435062/108475970-82d1fb80-72a2-11eb-99a2-8ac4eca070bb.png" alt="target 48 Wash Your Hands" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-48-wash-your-hands)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Wash-Your-Hands.md)
+- 👉  [Web Dev Junkie's Soluition](https://www.youtube.com/watch?v=dX0POGzBH3Q)
 
 ### Target #47 (Corona Virus)
 
