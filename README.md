@@ -14,6 +14,7 @@
     - [Target #68 (Bell)](#target-68-bell)
     - [Target #64 (Door Knob)](#target-64-door-knob)
     - [Target #49 (Stay at Home)](#target-49-stay-at-home)
+    - [Target #48 (Wash Your Hands)](#target-48-wash-your-hands)
     - [Target #47 (Corona Virus)](#target-47-corona-virus)
     - [Target #36 (Interleaved)](#target-36-interleaved)
     - [Target #30 (Horizon)](#target-30-horizon)
@@ -42,6 +43,12 @@
 <img src="https://user-images.githubusercontent.com/17435062/107763694-13a75500-6d40-11eb-8eab-64aa1528a0a2.png" alt="target 49 Stay At Home" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-49-stay-at-home)
+
+### Target #48 (Wash Your Hands)
+
+<img src="https://user-images.githubusercontent.com/17435062/108475970-82d1fb80-72a2-11eb-99a2-8ac4eca070bb.png" alt="target 48 Wash Your Hands" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-48-wash-your-hands)
 
 ### Target #47 (Corona Virus)
 
