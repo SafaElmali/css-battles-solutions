@@ -66,7 +66,7 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-32-band-aid)
 
-### Target #30 (Horizon)
+### Target #32 (Band Aid)
 
 <img src="https://user-images.githubusercontent.com/17435062/107861585-cc13ec80-6e57-11eb-9bed-ba1020ff378f.png" alt="target 30 Horizon" width="600"/>
 
