@@ -62,16 +62,15 @@
 
 ### Target #36 (Interleaved)
 
-<img src="https://user-images.githubusercontent.com/17435062/109426556-5b480500-79ff-11eb-90be-8e768936bc70.png" alt="target 32 Band Aid" width="600"/>
+<img src="https://user-images.githubusercontent.com/17435062/108100603-31095580-7097-11eb-9b98-87e6c903b325.png" alt="target 36 Interleaved" width="600"/>
 
-- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-32-band-aid)
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-36-Interleaved)
 
 ### Target #32 (Band Aid)
 
-<img src="https://user-images.githubusercontent.com/17435062/107861585-cc13ec80-6e57-11eb-9bed-ba1020ff378f.png" alt="target 30 Horizon" width="600"/>
+<img src="https://user-images.githubusercontent.com/17435062/109426556-5b480500-79ff-11eb-90be-8e768936bc70.png" alt="target 32 Band Aid" width="600"/>
 
-- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-30-horizon)
-- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Horizon.md)
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-32-band-aid)
 
 ### Target #30 (Horizon)
 
