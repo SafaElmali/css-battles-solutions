@@ -65,6 +65,8 @@
 <img src="https://user-images.githubusercontent.com/17435062/108100603-31095580-7097-11eb-9b98-87e6c903b325.png" alt="target 36 Interleaved" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-36-Interleaved)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Interleaved.md)
+- 👉  [kk77777's Solution](https://github.com/kk77777/css-battle/blob/main/Interleaved.html)
 
 ### Target #32 (Band Aid)
 
