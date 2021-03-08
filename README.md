@@ -17,6 +17,7 @@
     - [Target #48 (Wash Your Hands)](#target-48-wash-your-hands)
     - [Target #47 (Corona Virus)](#target-47-corona-virus)
     - [Target #36 (Interleaved)](#target-36-interleaved)
+    - [Target #33 (Birdie)](#target-33-birdie)
     - [Target #32 (Band Aid)](#target-32-band-aid)
     - [Target #30 (Horizon)](#target-30-horizon)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
@@ -67,6 +68,14 @@
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-36-Interleaved)
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Interleaved.md)
 - 👉  [kk77777's Solution](https://github.com/kk77777/css-battle/blob/main/Interleaved.html)
+
+### Target #33 (Birdie)
+
+<img src="https://user-images.githubusercontent.com/17435062/110306601-0e6fba00-800f-11eb-848c-acbc214c4199.png" alt="target 33 Birdie" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-33-birdie)
+- 👉  [Brizman's Solution](https://www.youtube.com/watch?v=Tj5h6EXBEVc)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Birdie.md)
 
 ### Target #32 (Band Aid)
 
