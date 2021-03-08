@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Target 33 Birdie</title>
+  </head>
+  <style>
+    body {
+      background: #1a4341;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      min-height: 100vh;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+    div {
+      border: 75px solid transparent;
+      border-top: 75px solid #998235;
+      border-left: 75px solid #998235;
+      border-radius: 50%;
+      transform: rotate(-45deg);
+    }
+    div::before {
+      content: "";
+      position: absolute;
+      left: -15px;
+      top: -58px;
+      width: 30px;
+      height: 30px;
+      background: #0b2429;
+      border-radius: 50px;
+    }
+    div::after {
+      content: "";
+      position: absolute;
+      left: -100px;
+      top: -100px;
+      border: 100px solid transparent;
+      border-right-color: #f3ac3c;
+      border-radius: 50%;
+    }
+
+    /* This is not part of the challenge. 
+       * Just my custom styling
+       */
+    footer {
+      position: relative;
+      font-size: 24px;
+      color: #000;
+      top: 2em;
+    }
+
+    footer > a {
+      text-decoration: none;
+      border: 1px solid lightgray;
+      background-color: lightgray;
+      border-radius: 15px;
+      padding: 10px;
+    }
+
+    footer > a:visited {
+      color: #000;
+    }
+
+    foooter > a:hover {
+      color: #656363;
+    }
+  </style>
+  <body>
+    <div></div>
+
+    <footer>
+      <a href="https://cssbattle.dev/play/33" target="_blank"
+        >Target #33 - Birdie</a
+      >
+    </footer>
+  </body>
+</html>
