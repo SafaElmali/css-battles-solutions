@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      background: #62306d;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      font-family: sans-serif;
+    }
+
+    div {
+      width: 100px;
+      height: 100px;
+      background: #f7ec7d;
+      border-radius: 0px 0px 50% 50%;
+    }
+
+    div:nth-of-type(1),
+    div:nth-of-type(3) {
+      transform: translateY(50px);
+    }
+    div:nth-of-type(2) {
+      transform: rotate(180deg) translateY(50px);
+    }
+
+    /* This is not part of the challenge. 
+       * Just my custom styling
+       */
+    footer {
+      position: absolute;
+      top: 70%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: #000;
+    }
+
+    footer > a {
+      text-decoration: none;
+      border: 1px solid lightgray;
+      background-color: lightgray;
+      border-radius: 15px;
+      padding: 10px;
+    }
+
+    footer > a:visited {
+      color: #000;
+    }
+
+    foooter > a:hover {
+      color: #656363;
+    }
+  </style>
+  <body>
+    <div></div>
+    <div></div>
+    <div></div>
+
+    <footer>
+      <a href="https://cssbattle.dev/play/4" target="_blank"
+        >Target #4 - Missing Slice</a
+      >
+    </footer>
+  </body>
+</html>
