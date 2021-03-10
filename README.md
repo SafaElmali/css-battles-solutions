@@ -22,6 +22,7 @@
     - [Target #30 (Horizon)](#target-30-horizon)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #6 (Missing Slice)](#target-6-missing-slice)
+    - [Target #5 (Acid Rain)](#target-5-acid-rain)
     - [Target #4 (Ups n Downs)](#target-4-ups-n-downs)
     - [Target #3 (Push Button)](#target-3-push-button)
     - [Target #2 (Carrom)](#target-2-carrom)
@@ -104,6 +105,14 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-6-missing-slice)
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Missing-Slice.md)
+
+### Target #5 (Acid Rain)
+
+<img src="https://user-images.githubusercontent.com/17435062/110693797-e5128200-81f8-11eb-948d-0cf35c2f4ff6.png" alt="target 5 Acid Rain" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-5-acid-rain)
+- 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Acid-Rain.md)
+
 
 ### Target #4 (Ups n Downs)
 
