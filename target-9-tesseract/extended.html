@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      margin: 0;
+      background: #222730;
+      display: flex;
+      align-items: center;
+      min-height: 100vh;
+      font-family: sans-serif;
+    }
+    b {
+      width: 100%;
+      height: 150px;
+      background: #4caab3;
+    }
+    c {
+      position: absolute;
+      left: 18.8%;
+      width: 250px;
+      height: 250px;
+      background: #222730;
+      transform: rotate(45deg);
+    }
+    c::after {
+      position: absolute;
+      top: 50px;
+      left: 50px;
+      content: "";
+      width: 150px;
+      height: 150px;
+      background: #4caab3;
+    }
+    c::before {
+      position: absolute;
+      top: 40%;
+      left: 40%;
+      z-index: 1;
+      content: "";
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: #393e46;
+    }
+
+    /* This is not part of the challenge. 
+       * Just my custom styling
+       */
+    footer {
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: #000;
+    }
+
+    footer > a {
+      text-decoration: none;
+      border: 1px solid lightgray;
+      background-color: lightgray;
+      border-radius: 15px;
+      padding: 10px;
+    }
+
+    footer > a:visited {
+      color: #000;
+    }
+
+    foooter > a:hover {
+      color: #656363;
+    }
+  </style>
+  <body>
+    <b></b>
+    <c></c>
+
+    <footer>
+      <a href="https://cssbattle.dev/play/9" target="_blank"
+        >Target #9 - Tesseract</a
+      >
+    </footer>
+  </body>
+</html>
