@@ -21,6 +21,7 @@
     - [Target #32 (Band Aid)](#target-32-band-aid)
     - [Target #30 (Horizon)](#target-30-horizon)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
+    - [Target #9 (Tesseract)](#target-9-tesseract)
     - [Target #6 (Missing Slice)](#target-6-missing-slice)
     - [Target #5 (Acid Rain)](#target-5-acid-rain)
     - [Target #4 (Ups n Downs)](#target-4-ups-n-downs)
@@ -98,6 +99,12 @@
 <img src="https://user-images.githubusercontent.com/17435062/107844921-a7346080-6de8-11eb-9942-ce518a6e933b.png" alt="target 13 Totally Triangle" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-13-totally-triangle)
+
+### Target #9 (Tesseract)
+
+<img src="https://user-images.githubusercontent.com/17435062/111434103-33031a80-8710-11eb-9750-daec37e01302.png" alt="target 9 Tesseract" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-9-tesseract)
 
 ### Target #6 (Missing Slice)
 
