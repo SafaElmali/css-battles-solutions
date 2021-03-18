@@ -8,55 +8,33 @@
   </head>
   <style>
     body {
-      background: #62374e;
       min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
-    b {
-      position: absolute;
+    div {
       width: 50px;
       height: 50px;
       background: #fdc57b;
-      top: 16.5%;
-      left: 12.5%;
-    }
-    c {
-      position: absolute;
-      width: 50px;
-      height: 50px;
-      background: #fdc57b;
-      top: 16.5%;
-      right: 12.5%;
-    }
-    d {
-      position: absolute;
-      width: 50px;
-      height: 50px;
-      background: #fdc57b;
-      bottom: 16.7%;
-      left: 12.5%;
-    }
-    e {
-      position: absolute;
-      width: 50px;
-      height: 50px;
-      background: #fdc57b;
-      bottom: 16.7%;
-      right: 12.5%;
+      margin: 50px 50px 50px 42px;
+      box-shadow: 250px 0px 0 0 #fdc57b, 0px 150px 0 0 #fdc57b,
+        250px 150px 0 0 #fdc57b, 0 0 0 1000px #62374e;
     }
 
     /* This is not part of the challenge. 
        * Just my custom styling
        */
-    div {
-      position: relative;
-      top: 50px;
-      text-align: center;
+    footer {
+      position: absolute;
+      top: 90%;
+      left: 65%;
+      transform: translate(-50%, -50%);
       font-size: 24px;
       color: #000;
-      bottom: 0;
     }
 
-    div > a {
+    footer > a {
       text-decoration: none;
       border: 1px solid lightgray;
       background-color: lightgray;
@@ -64,20 +42,20 @@
       padding: 10px;
     }
 
-    foodivter > a:visited {
+    footer > a:visited {
       color: #000;
     }
 
-    div > a:hover {
+    foooter > a:hover {
       color: #656363;
     }
   </style>
   <body>
-    <b></b><c></c><d></d><e></e>
-    <div>
+    <div></div>
+    <footer>
       <a href="https://cssbattle.dev/play/2" target="_blank"
         >Target #2 - Carrom</a
       >
-    </div>
+    </footer>
   </body>
 </html>
