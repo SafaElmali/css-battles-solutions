@@ -22,6 +22,7 @@
     - [Target #30 (Horizon)](#target-30-horizon)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #9 (Tesseract)](#target-9-tesseract)
+    - [Target #8 (Forking Crazy)](#target-8-forking-crazy)
     - [Target #6 (Missing Slice)](#target-6-missing-slice)
     - [Target #5 (Acid Rain)](#target-5-acid-rain)
     - [Target #4 (Ups n Downs)](#target-4-ups-n-downs)
@@ -105,6 +106,12 @@
 <img src="https://user-images.githubusercontent.com/17435062/111434103-33031a80-8710-11eb-9750-daec37e01302.png" alt="target 9 Tesseract" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-9-tesseract)
+
+### Target #8 (Forking Crazy)
+
+<img src="https://user-images.githubusercontent.com/17435062/111629318-38409200-8802-11eb-80cb-eb67308c24b4.png" alt="target 8 Forking Crazy" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-8-forking-crazy)
 
 ### Target #6 (Missing Slice)
 
