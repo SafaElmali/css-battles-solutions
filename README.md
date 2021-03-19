@@ -23,6 +23,7 @@
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #9 (Tesseract)](#target-9-tesseract)
     - [Target #8 (Forking Crazy)](#target-8-forking-crazy)
+    - [Target #7 (Leafy Trail)](#target-7-leafy-trail)
     - [Target #6 (Missing Slice)](#target-6-missing-slice)
     - [Target #5 (Acid Rain)](#target-5-acid-rain)
     - [Target #4 (Ups n Downs)](#target-4-ups-n-downs)
@@ -112,6 +113,12 @@
 <img src="https://user-images.githubusercontent.com/17435062/111629318-38409200-8802-11eb-80cb-eb67308c24b4.png" alt="target 8 Forking Crazy" width="600"/>
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-8-forking-crazy)
+
+### Target #7 (Leafy Trail)
+
+<img src="https://user-images.githubusercontent.com/17435062/111746998-d2a2e300-889f-11eb-8b98-bae9a8c7cae8.png" alt="target 7 Leafy Trail" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-7-leafy-trail)
 
 ### Target #6 (Missing Slice)
 
