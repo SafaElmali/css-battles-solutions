@@ -20,6 +20,7 @@
     - [Target #33 (Birdie)](#target-33-birdie)
     - [Target #32 (Band Aid)](#target-32-band-aid)
     - [Target #30 (Horizon)](#target-30-horizon)
+    - [Target #16 (Eye Of The Tiger)](#target-16-eye-of-the-tiger)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #9 (Tesseract)](#target-9-tesseract)
     - [Target #8 (Forking Crazy)](#target-8-forking-crazy)
@@ -94,6 +95,12 @@
 
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-30-horizon)
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Horizon.md)
+
+### Target #16 (Eye Of The Tiger)
+
+<img src="https://user-images.githubusercontent.com/17435062/111901162-403d4380-8a47-11eb-9b20-383bc3b19616.png" alt="target 16 Eye Of The Tiger" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-16-eye-of-the-tiger)
  
 
 ### Target #13 (Totally Triangle)
