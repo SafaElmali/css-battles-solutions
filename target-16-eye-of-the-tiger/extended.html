@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      background: #0b2429;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      min-height: 100vh;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+    .circle {
+      width: 200px;
+      height: 200px;
+      border-radius: 0 50%;
+      transform: rotate(-45deg);
+      background: #998235;
+      position: relative;
+    }
+    .inner-circle {
+      position: absolute;
+      width: 50px;
+      height: 50px;
+      left: 37.5%;
+      top: 37.5%;
+      border-radius: 50%;
+      background: #0b2429;
+      box-shadow: 0 0 0 45px #f3ac3c, 0 0 0 65px #0b2429;
+    }
+
+    /* This is not part of the challenge. 
+       * Just my custom styling
+       */
+    footer {
+      position: relative;
+      font-size: 24px;
+      color: #000;
+      top: 2em;
+    }
+
+    footer > a {
+      text-decoration: none;
+      border: 1px solid lightgray;
+      background-color: lightgray;
+      border-radius: 15px;
+      padding: 10px;
+    }
+
+    footer > a:visited {
+      color: #000;
+    }
+
+    foooter > a:hover {
+      color: #656363;
+    }
+  </style>
+  <body>
+    <div class="circle"><div class="inner-circle"></div></div>
+    <footer>
+      <a href="https://cssbattle.dev/play/16" target="_blank"
+        >Target #16 - Eye of the Tiger</a
+      >
+    </footer>
+  </body>
+</html>
