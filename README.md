@@ -96,6 +96,12 @@
 - 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-30-horizon)
 - 👉  [chokcoco's Solution](https://github.com/chokcoco/css-battle-answer/blob/master/Horizon.md)
 
+### Target #27 (Lock Up)
+
+<img src="https://user-images.githubusercontent.com/17435062/112140533-2cc7df00-8be5-11eb-9fe9-d522797cf997.png" alt="target 27 Lock Up" width="600"/>
+
+- 👉  [My Solution](https://github.com/SafaElmali/css-battles-solutions/tree/master/target-27-lock-up)
+
 ### Target #16 (Eye Of The Tiger)
 
 <img src="https://user-images.githubusercontent.com/17435062/111901162-403d4380-8a47-11eb-9b20-383bc3b19616.png" alt="target 16 Eye Of The Tiger" width="600"/>
