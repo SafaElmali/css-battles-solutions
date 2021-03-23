@@ -20,6 +20,7 @@
     - [Target #33 (Birdie)](#target-33-birdie)
     - [Target #32 (Band Aid)](#target-32-band-aid)
     - [Target #30 (Horizon)](#target-30-horizon)
+    - [Target #27 (Lock Up)](#target-27-lock-up)
     - [Target #16 (Eye Of The Tiger)](#target-16-eye-of-the-tiger)
     - [Target #13 (Totally Triangle)](#target-13-totally-triangle)
     - [Target #9 (Tesseract)](#target-9-tesseract)
