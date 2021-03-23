@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <style>
+    body {
+      background: #e38f66;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      min-height: 100vh;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+
+    .circle {
+      width: 200px;
+      height: 200px;
+      background: #aa445f;
+      border-radius: 50%;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .circle::after {
+      position: absolute;
+      content: "";
+      width: 80px;
+      height: 80px;
+      border: 30px solid #f7ec7d;
+      border-radius: 50%;
+      border-left-color: transparent;
+      border-right-color: transparent;
+      transform: rotate(45deg);
+    }
+
+    /* This is not part of the challenge. 
+    * Just my custom styling
+    */
+    footer {
+      position: relative;
+      font-size: 24px;
+      color: #000;
+      top: 2em;
+    }
+
+    footer > a {
+      text-decoration: none;
+      border: 1px solid lightgray;
+      background-color: lightgray;
+      border-radius: 15px;
+      padding: 10px;
+    }
+
+    footer > a:visited {
+      color: #000;
+    }
+
+    foooter > a:hover {
+      color: #656363;
+    }
+  </style>
+  <body>
+    <div class="circle"></div>
+    <footer>
+      <a href="https://cssbattle.dev/play/27" target="_blank"
+        >Target #27 - Lock Up</a
+      >
+    </footer>
+  </body>
+</html>
