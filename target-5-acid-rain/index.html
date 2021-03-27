@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Target #5 Acid Rain</title>
+  </head>
+  <style>
+    body {
+      background: #0b2429;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      /* If you open this file in your browser, please comment out this property to see the shape clearly */
+      /* min-height: 100vh; */
+    }
+
+    div {
+      width: 120px;
+      height: 120px;
+      background: #998235;
+      border-radius: 50% 0% 50% 50%;
+      position: relative;
+    }
+
+    div::before,
+    div::after {
+      content: "";
+      position: absolute;
+      width: 120px;
+      height: 120px;
+      background: #f3ac3c;
+      border-radius: 50% 0% 50% 50%;
+      left: -60px;
+      top: 60px;
+    }
+
+    div::after {
+      left: 60px;
+      top: -60px;
+      z-index: -1;
+      border-radius: 50%;
+    }
+  </style>
+  <body>
+    <div></div>
+  </body>
+</html>
